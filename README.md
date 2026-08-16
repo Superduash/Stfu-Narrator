@@ -6,9 +6,9 @@ Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey
 
 ## ✨ Features
 
-- **Skips Accessibility Onboarding:** Automatically skips the first-time Accessibility onboarding popup on instance launch.
-- **Disables Narrator Hotkey:** Sets the Narrator hotkey (`Ctrl + B`) to disabled by default to prevent accidental triggers during gameplay.
-- **Zero Overhead & No Config:** Runs once during game initialization with no tick listeners, no persistent background threads, and no config files needed.
+- **Skips Accessibility Onboarding:** Automatically skips Minecraft's Accessibility onboarding screen on first launch.
+- **Disables Narrator Hotkey:** Disables the Narrator hotkey (`Ctrl + B`) to prevent accidental Narrator activation during gameplay.
+- **Zero Overhead:** Makes its changes during game initialization with no tick listeners, persistent background threads, or config files.
 
 ---
 
@@ -19,20 +19,25 @@ Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey
 - **Fabric API:** Required
 - **Java:** `25`
 
+> This release is specifically built for Minecraft 26.2.
+
 ---
 
 ## 💻 Client-Side Only
 
-This mod is strictly client-side. It does not need to be installed on dedicated servers.
+STFU Narrator is strictly client-side.
+
+It does not need to be installed on dedicated servers.
 
 ---
 
 ## 📦 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/) for Minecraft 26.2.
-2. Download **STFU Narrator** and the matching version of [Fabric API](https://modrinth.com/mod/fabric-api).
-3. Place both `.jar` files into your Minecraft `.minecraft/mods` folder.
-4. Launch the game!
+2. Download **STFU Narrator** for your Minecraft version.
+3. Download the matching version of [Fabric API](https://modrinth.com/mod/fabric-api).
+4. Place both `.jar` files into your `.minecraft/mods` folder.
+5. Launch Minecraft.
 
 ---
 
