@@ -1,4 +1,4 @@
-<img src="docs/icon.png" width="128">
+<img width="128" height="128" alt="stfu" src="https://github.com/user-attachments/assets/165d0214-5a8a-4465-8172-cc070859c424" />
 
 # Stfu Narrator
 
