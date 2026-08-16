@@ -1,0 +1,30 @@
+# Gradle build cache & wrapper binaries
+.gradle/
+build/
+bin/
+out/
+
+# Local JDKs and development directories
+/Temurin 25/
+/FPS & Ping Display/
+/reference/
+
+# IDE Configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Minecraft client test run files & logs
+run/
+crash-reports/
+logs/
+saves/
+
+# OS specific files
+.DS_Store
+Thumbs.db

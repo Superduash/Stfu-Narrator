@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "shutupnarrator",
+	"version": "${version}",
+	"name": "Shut Up! Narrator",
+	"description": "Automatically skips Minecraft's Accessibility onboarding screen and disables the Narrator hotkey (Ctrl + B).",
+	"authors": [
+		"Superduash"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/shut-up-narrator",
+		"sources": "https://github.com/Superduash/ShutUp-Narrator",
+		"issues": "https://github.com/Superduash/ShutUp-Narrator/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/shutupnarrator/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.superduash.shutupnarrator.ShutUpNarrator"
+		]
+	},
+	"mixins": [
+		"shutupnarrator.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
