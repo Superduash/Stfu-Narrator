@@ -1,4 +1,4 @@
-# STFU Narrator
+# Stfu Narrator
 
 Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey.
 
@@ -25,7 +25,7 @@ Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey
 
 ## 💻 Client-Side Only
 
-STFU Narrator is strictly client-side.
+Stfu Narrator is strictly client-side.
 
 It does not need to be installed on dedicated servers.
 
@@ -34,7 +34,7 @@ It does not need to be installed on dedicated servers.
 ## 📦 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/) for Minecraft 26.2.
-2. Download **STFU Narrator** for your Minecraft version.
+2. Download **Stfu Narrator** for your Minecraft version.
 3. Download the matching version of [Fabric API](https://modrinth.com/mod/fabric-api).
 4. Place both `.jar` files into your `.minecraft/mods` folder.
 5. Launch Minecraft.
@@ -43,9 +43,9 @@ It does not need to be installed on dedicated servers.
 
 ## 🔗 Links & Source Code
 
-- **Source Code:** [GitHub Repository](https://github.com/Superduash/ShutUpNarrator)
-- **Issue Tracker:** [GitHub Issues](https://github.com/Superduash/ShutUpNarrator/issues)
-- **Modrinth:** [STFU Narrator on Modrinth](https://modrinth.com/mod/shutup-narrator)
+- **Source Code:** [GitHub Repository](https://github.com/Superduash/Stfu-Narrator)
+- **Issue Tracker:** [GitHub Issues](https://github.com/Superduash/Stfu-Narrator/issues)
+- **Modrinth:** [Stfu Narrator on Modrinth](https://modrinth.com/mod/shutup-narrator)
 
 ---
 
@@ -53,7 +53,7 @@ It does not need to be installed on dedicated servers.
 
 Inspired by the original concept behind [Disable Accessibility Screen](https://modrinth.com/mod/disable-accessibility-screen) by **DaFuqs**.
 
-*STFU Narrator* is an independent implementation targeting modern Minecraft/Fabric versions.
+*Stfu Narrator* is an independent implementation targeting modern Minecraft/Fabric versions.
 
 ---
 
