@@ -1,4 +1,4 @@
-package com.superduash.shutupnarrator.mixin;
+package com.superduash.stfunarrator.mixin;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.Options;
@@ -15,7 +15,7 @@ public abstract class MinecraftMixin {
     @Shadow @Final public Options options;
 
     @Inject(method = "onGameLoadFinished", at = @At("HEAD"))
-    private void shutUpNarrator$onGameLoadFinished(CallbackInfo ci) {
+    private void stfuNarrator$onGameLoadFinished(CallbackInfo ci) {
         this.options.onboardAccessibility = false;
         this.options.narratorHotkey().set(false);
         this.options.save();

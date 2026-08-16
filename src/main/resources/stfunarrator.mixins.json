@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.superduash.shutupnarrator.mixin",
+	"package": "com.superduash.stfunarrator.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [],
 	"client": [
