@@ -40,7 +40,7 @@ This mod is strictly client-side. It does not need to be installed on dedicated 
 
 - **Source Code:** [GitHub Repository](https://github.com/Superduash/ShutUp-Narrator)
 - **Issue Tracker:** [GitHub Issues](https://github.com/Superduash/ShutUp-Narrator/issues)
-- **Modrinth:** [Shut Up! Narrator on Modrinth](https://modrinth.com/mod/shut-up-narrator)
+- **Modrinth:** [Shut Up! Narrator on Modrinth](https://modrinth.com/mod/shutup-narrator)
 
 ---
 
