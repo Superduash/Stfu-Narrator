@@ -2,15 +2,15 @@
 	"schemaVersion": 1,
 	"id": "shutupnarrator",
 	"version": "${version}",
-	"name": "Shut Up! Narrator",
-	"description": "Automatically skips Minecraft's Accessibility onboarding screen and disables the Narrator hotkey (Ctrl + B).",
+	"name": "STFU Narrator",
+	"description": "Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey.",
 	"authors": [
 		"Superduash"
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/shutup-narrator",
-		"sources": "https://github.com/Superduash/ShutUp-Narrator",
-		"issues": "https://github.com/Superduash/ShutUp-Narrator/issues"
+		"sources": "https://github.com/Superduash/ShutUpNarrator",
+		"issues": "https://github.com/Superduash/ShutUpNarrator/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/shutupnarrator/icon.png",

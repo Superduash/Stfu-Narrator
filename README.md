@@ -1,6 +1,6 @@
-# Shut Up! Narrator
+# STFU Narrator
 
-A lightweight, client-side Fabric mod for Minecraft 26.2 that automatically skips the Accessibility onboarding screen and disables the Narrator hotkey (`Ctrl + B`).
+Skip Minecraft's Accessibility onboarding screen and disable the Narrator hotkey.
 
 ---
 
@@ -30,7 +30,7 @@ This mod is strictly client-side. It does not need to be installed on dedicated 
 ## 📦 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/) for Minecraft 26.2.
-2. Download **Shut Up! Narrator** and the matching version of [Fabric API](https://modrinth.com/mod/fabric-api).
+2. Download **STFU Narrator** and the matching version of [Fabric API](https://modrinth.com/mod/fabric-api).
 3. Place both `.jar` files into your Minecraft `.minecraft/mods` folder.
 4. Launch the game!
 
@@ -38,9 +38,9 @@ This mod is strictly client-side. It does not need to be installed on dedicated 
 
 ## 🔗 Links & Source Code
 
-- **Source Code:** [GitHub Repository](https://github.com/Superduash/ShutUp-Narrator)
-- **Issue Tracker:** [GitHub Issues](https://github.com/Superduash/ShutUp-Narrator/issues)
-- **Modrinth:** [Shut Up! Narrator on Modrinth](https://modrinth.com/mod/shutup-narrator)
+- **Source Code:** [GitHub Repository](https://github.com/Superduash/ShutUpNarrator)
+- **Issue Tracker:** [GitHub Issues](https://github.com/Superduash/ShutUpNarrator/issues)
+- **Modrinth:** [STFU Narrator on Modrinth](https://modrinth.com/mod/shutup-narrator)
 
 ---
 
@@ -48,7 +48,7 @@ This mod is strictly client-side. It does not need to be installed on dedicated 
 
 Inspired by the original concept behind [Disable Accessibility Screen](https://modrinth.com/mod/disable-accessibility-screen) by **DaFuqs**.
 
-*Shut Up! Narrator* is an independent implementation targeting modern Minecraft/Fabric versions.
+*STFU Narrator* is an independent implementation targeting modern Minecraft/Fabric versions.
 
 ---
 
