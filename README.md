@@ -44,11 +44,17 @@ This mod is strictly client-side. It does not need to be installed on dedicated 
 
 ---
 
-## 📄 License & Attribution
+## 👏 Credits
+
+Inspired by the original concept behind [Disable Accessibility Screen](https://modrinth.com/mod/disable-accessibility-screen) by **DaFuqs**.
+
+*Shut Up! Narrator* is an independent implementation targeting modern Minecraft/Fabric versions.
+
+---
+
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Based on and inspired by the original concept by **DaFuqs** (*Disable Accessibility Screen*), updated and ported for Minecraft 26.2 / Fabric Loader 0.19.3.
 
 ---
 
